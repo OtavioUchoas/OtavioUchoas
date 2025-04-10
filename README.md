@@ -11,7 +11,7 @@ Atualmente descobrindo e aprendendo novas tecnologias!
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ## 📲 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/otavio-uchôas-359177321)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-uchôas-359177321)
 ## 📈 Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioUchoas&show_icons=true&theme=highcontrast&locale=pt-br&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioUchoas&layout=compact&theme=highcontrast&locale=pt-br&include_all_commits=true)
